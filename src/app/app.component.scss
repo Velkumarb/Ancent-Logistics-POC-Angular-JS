@@ -1,0 +1,33 @@
+.container{
+    width: 1000px;
+
+    .input-fields-section{
+      margin: 10px 0; 
+      width: 600px;
+    }
+    h1{
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .input-txt-box{
+        padding: 10px 10px;
+        
+        margin: 0 5px 10px 0;
+
+     input[type="text"]{
+        display: inline-block;
+        margin: 0 3px 7px 0px;
+     }   
+    }
+
+    button{
+        
+        background: rgb(5, 126, 201);
+        border: none;
+        color: #fff;
+        padding: 5px 10px 5px 10px;
+        cursor: pointer;
+    }
+
+}
